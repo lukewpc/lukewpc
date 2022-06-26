@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Luke Wood
-- 👀 I’m interested in Java, Kotlin, Spring, PostgreSQL, React
-- 🌱 I’m currently learning Spring Security, Mockito
+- 👀 I’m interested in Java, Kotlin, Spring, PostgreSQL, React, Vue, GitOps
+- 🌱 I’m currently learning GCP, Kubernetes, Terraform
