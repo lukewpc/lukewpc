@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Luke Wood
 - 👀 I like Java, Kotlin, Spring, PostgreSQL, Kubernetes, GCP
-- 🌱 I’m want to learn GoLang, Kafka
