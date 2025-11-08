@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Luke Wood
-- 👀 I like JS/TS, PostgreSQL, Go, Java, Kubernetes, GCP
+- 👀 I like Java, Spring, PostgreSQL, Kubernetes, GCP/AWS, JS/TS, Go, ...
